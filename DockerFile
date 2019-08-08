@@ -1,0 +1,14 @@
+#pull base image
+FROM openjdk:11-jdk-alpine
+
+#maintainer 
+MAINTAINER sridharanbe.ece@gmail.com
+
+#expose port 8081
+EXPOSE 8081
+
+#default command
+CMD java -jar /data/Springboot-localstack-0.0.1-SNAPSHOT.jar
+
+#copy docker image
+ADD ./data/Springboot-localstack.jar /data/Springboot-localstack-0.0.1-SNAPSHOT.jar

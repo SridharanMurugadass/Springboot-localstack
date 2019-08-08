@@ -54,7 +54,8 @@ Note : You can test without docker by starting the service
 java -jar Springboot-localstack-0.0.1-SNAPSHOT.jar
 
 
-Please find all the testing snapshots inside the /data folder.
+Please find all the testing snapshots here 
+https://github.com/SridharanMurugadass/Springboot-localstack/tree/master/data
 
 
 

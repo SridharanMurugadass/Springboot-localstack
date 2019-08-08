@@ -57,7 +57,6 @@ java -jar Springboot-localstack-0.0.1-SNAPSHOT.jar
 Please find all the testing snapshots here 
 https://github.com/SridharanMurugadass/Springboot-localstack/tree/master/data
 
-https://github.com/SridharanMurugadass/Springboot-localstack/blob/master/data/Screenshot%20from%202019-08-08%2012-36-40.png
 
 
 
